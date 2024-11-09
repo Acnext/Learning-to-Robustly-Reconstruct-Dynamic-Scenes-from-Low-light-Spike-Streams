@@ -7,8 +7,13 @@ Related codes and datasets will be provided soon.
 
 
 ## Evaluate
+python test.py --data_path="" --save_path=""
 
+**Args**:
 
+$\cdot$ **data_path**: the path of spike streams
+
+$\cdot$ **save_path**: the path of reconstruction images
 
 ## Train
 
